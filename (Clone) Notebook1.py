@@ -11,3 +11,7 @@ print ("Run Python")
 
 # MAGIC %sql
 # MAGIC Select '1234'
+
+# COMMAND ----------
+
+print('Testing upload')
